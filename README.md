@@ -1,6 +1,6 @@
 Graduate Admission Prediction
 
-This project predicts the admission of a student based on different features including university rating, student’s undergrade GPA,
+This project predicts the admission of a student based on different features including university rating, student’s undergraduate CGPA,
 GRE score, research experience and etc. This predicts that how much chances are there that the student will get admission in his
 selected university or not.
 
